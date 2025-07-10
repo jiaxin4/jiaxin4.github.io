@@ -22,15 +22,17 @@ repository               : "jiaxin4/jiaxin4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "mypic_jiaxinyu.jpg"
   name             : "Jiaxin Yu" 
   bio              : "PhD student in Statistics"
-  University         : "University of California, Irvine"
+  location         : "Irvine, California"
+  employer         : "University of California, Irvine"
   email            : "jiaxiny4@uci.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  github           : "jiaxin4"
 
 
 # Publication Category - The following the list of publication categories and their headings
