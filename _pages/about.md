@@ -13,7 +13,9 @@ Welcome, I am a fifth-year Ph.D. student in Statistics at [University of Califor
 
 
 ## Overview of My Research
-I have broad research interests in Causal inference, semiparametric theory, policy learning, experimental design, longitudinal methods, and machine learning.
+I have broad research interests in causal inference, semiparametric theory, policy learning, experimental design, longitudinal methods, and machine learning. In particular, I have worked on the following,
 
 - estimate causal effects in longitudinal settings with time-varying treatments;
-- Alzheimer's disease
+- develop doubly robust estimator in the presence of missing data;
+- derive semiparametric models in causal inference;
+- Applying statistical methods to Alzheimer’s disease research.
